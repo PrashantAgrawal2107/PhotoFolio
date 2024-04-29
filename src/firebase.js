@@ -7,12 +7,7 @@ import { getFirestore } from "firebase/firestore";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyA9rL8MBzuDSkAm8HR2tLZuAvW1IknDMyI",
-  authDomain: "photofolio-37a1c.firebaseapp.com",
-  projectId: "photofolio-37a1c",
-  storageBucket: "photofolio-37a1c.appspot.com",
-  messagingSenderId: "664561815512",
-  appId: "1:664561815512:web:18745757377a7a21d06cad"
+  // set your own firebase config...
 };
 
 // Initialize Firebase
